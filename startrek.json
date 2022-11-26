@@ -1,0 +1,216 @@
+{
+    "title": "How Well Do You Know Star Trek?",
+    "questions": [
+        {
+            "question": "Who was the captain in the first pilot episode of the original Star Trek series?",
+            "answers": [
+                {
+                    "answer": "Jean-Luc Picard",
+                    "points": 0
+                },
+                {
+                    "answer": "Christopher Pike",
+                    "points": 1
+                },
+                {
+                    "answer": "James T. Kirk",
+                    "points": 0
+                },
+                {
+                    "answer": "Spock",
+                    "points": 0
+                }
+            ]
+        },
+        {
+            "question": "What is James T. Kirk's father's name?",
+            "answers": [
+                {
+                    "answer": "Greg",
+                    "points": 0
+                },
+                {
+                    "answer": "James",
+                    "points": 0
+                },
+                {
+                    "answer": "Christopher",
+                    "points": 0
+                },
+                {
+                    "answer": "George",
+                    "points": 1
+                }
+            ]
+        },
+        {
+            "question": "What is Spock's mother's name?",
+            "answers": [
+                {
+                    "answer": "Winona",
+                    "points": 0
+                },
+                {
+                    "answer": "Amala",
+                    "points": 0
+                },
+                {
+                    "answer": "Amanda",
+                    "points": 1
+                },
+                {
+                    "answer": "Katherine",
+                    "points": 0
+                }
+            ]
+        },
+        {
+            "question": "What was Captain Janeway's first mission after becoming captain of the USS Voyager?",
+            "answers": [
+                {
+                    "answer": "Fight the Borg",
+                    "points": 0
+                },
+                {
+                    "answer": "Explore the Delta Quadrant",
+                    "points": 0
+                },
+                {
+                    "answer": "Protect the Ocampa",
+                    "points": 0
+                },
+                {
+                    "answer": "Capture a Maquis ship",
+                    "points": 1
+                }
+            ]
+        },
+        {
+            "question": "What's the name of the ship under Benjamin Sisko's command?",
+            "answers": [
+                {
+                    "answer": "Defiant",
+                    "points": 1
+                },
+                {
+                    "answer": "Enterprise",
+                    "points": 0
+                },
+                {
+                    "answer": "Dominion",
+                    "points": 0
+                },
+                {
+                    "answer": "Voyager",
+                    "points": 0
+                }
+            ]
+        },
+        {
+            "question": "Who was the first communications officer on the Enterprise?",
+            "answers": [
+                {
+                    "answer": "Hoshi Sato",
+                    "points": 1
+                },
+                {
+                    "answer": "Harry Kim",
+                    "points": 0
+                },
+                {
+                    "answer": "Nyota Uhura",
+                    "points": 0
+                },
+                {
+                    "answer": "Tasha Yar",
+                    "points": 0
+                }
+            ]
+        },
+        {
+            "question": "Who did not appear in at least three Star Trek TV series?",
+            "answers": [
+                {
+                    "answer": "Borg",
+                    "points": 0
+                },
+                {
+                    "answer": "William Riker",
+                    "points": 0
+                },
+                {
+                    "answer": "Q",
+                    "points": 0
+                },
+                {
+                    "answer": "Reginald Barclay",
+                    "points": 1
+                }
+            ]
+        },
+        {
+            "question": "Some Star Trek movies were directed by actors who starred in them. Which of these actors did NOT direct a Star Trek movie?",
+            "answers": [
+                {
+                    "answer": "Patrick Stewart",
+                    "points": 1
+                },
+                {
+                    "answer": "William Shatner",
+                    "points": 0
+                },
+                {
+                    "answer": "Jonathan Frakes",
+                    "points": 0
+                },
+                {
+                    "answer": "Leonard Nimoy",
+                    "points": 0
+                }
+            ]
+        },
+        {
+            "question": "Which real-life astronaut made a guest appearance on Star Trek: The Next Generation?",
+            "answers": [
+                {
+                    "answer": "Fred Noonan",
+                    "points": 0
+                },
+                {
+                    "answer": "Mae Carol Jemison",
+                    "points": 1
+                },
+                {
+                    "answer": "Terry Virts",
+                    "points": 0
+                },
+                {
+                    "answer": "Edward Michael Fincke",
+                    "points": 0
+                }
+            ]
+        }
+    ],
+    "scores": [
+        {
+            "score": 0,
+            "result": "You haven't watched Start Trek, have you?"
+        },
+        {
+            "score": 3,
+            "result": "Did you actually watch Star Trek, or just guessed?"
+        },
+        {
+            "score": 6,
+            "result": "Not bad, not bad..."
+        },
+        {
+            "score": 8,
+            "result": "Almost perfect!"
+        },
+        {
+            "score": 9,
+            "result": "Aye, aye, captitan!"
+        }
+    ]
+}

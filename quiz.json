@@ -1,0 +1,53 @@
+{
+    "title": "Sample Quiz",
+    "questions": [
+        {
+            "question": "Is this a question?",
+            "answers": [
+                {
+                    "answer": "Yes",
+                    "points": 1
+                },
+                {
+                    "answer": "No",
+                    "points": 0
+                },
+                {
+                    "answer": "Maybe",
+                    "points": 0
+                }
+            ]
+        },
+        {
+            "question": "Choose the correct answer:",
+            "answers": [
+                {
+                    "answer": "Correct",
+                    "points": 1
+                },
+                {
+                    "answer": "Incorrect",
+                    "points": 0
+                },
+                {
+                    "answer": "Not sure",
+                    "points": 0
+                }
+            ]
+        }
+    ],
+    "scores": [
+        {
+            "score": 0,
+            "result": "How could you get both questions wrong?"
+        },
+        {
+            "score": 1,
+            "result": "Well, at least you got one question right..."
+        },
+        {
+            "score": 2,
+            "result": "Good job, you got 100% right!"
+        }
+    ]
+}
